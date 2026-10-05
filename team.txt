@@ -1,3 +1,7 @@
 Team members: nikvpatell-ctrl and starplexo
 Favorite programming language: TBD
+<<<<<<< HEAD
 Team motto: Get it done.
+=======
+Team motto: We will be the best in town.
+>>>>>>> 30f8fc0e2978265fd58965fa4afb54fa409505c7
